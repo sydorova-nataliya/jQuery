@@ -1,0 +1,10 @@
+table{
+  border-collapse: collapse;
+}
+.user-tr td{
+  font-size: 18px;
+  border: 1px solid black;
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
